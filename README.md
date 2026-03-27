@@ -1,7 +1,7 @@
 <h1 align="center">PSDesigner: Automated Graphic Design with a Human-Like Creative Workflow</h1>
 
 <div align="center">
-<a href=''><img src='https://img.shields.io/badge/Paper-arxiv-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;
+<a href='https://arxiv.org/abs/2603.25738'><img src='https://img.shields.io/badge/Paper-arxiv-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://henghuiding.com/PSDesigner'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://modelscope.cn/datasets/song322/CreativePSD'><img src='https://img.shields.io/badge/ModelScope-Dataset-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href=""><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Weights-HF-orange"></a> &nbsp;&nbsp;&nbsp;&nbsp; -->
