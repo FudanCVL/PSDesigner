@@ -16,7 +16,7 @@
 
 
 ## 🎉 News
-- [2026/03/26] Release the **CreativePSD dataset**. ![ModelScope](assets\modelscope-color.svg) [CreativePSD](https://modelscope.cn/datasets/song322/CreativePSD).
+- [2026/03/26] Release the **CreativePSD dataset**. ![ModelScope](assets/modelscope-color.svg) [CreativePSD](https://modelscope.cn/datasets/song322/CreativePSD).
 - [2026/02/21] PSDesigner is accepted to **CVPR 2026**. 👏👏
 
 
